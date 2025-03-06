@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! My name Eskander and I'm a software engineer</h2>
 
 ###
+<a href="https://imgflip.com/i/9mh2w7"><img src="https://i.imgflip.com/9mh2w7.jpg" title="made at imgflip.com"/></a>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -37,6 +38,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fadyMounir10/fadyMounir10/output/snake.svg" alt="Snake animation" />
 
 ###
