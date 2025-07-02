@@ -3,8 +3,9 @@
 </div>
 
 <p align="center">
-  <strong>Computer Science Student | Flutter Developer | Problem Solver</strong><br><br>
-  I specialize in building beautiful, responsive mobile applications using Flutter and Dart. I have a solid foundation in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, and Design Patterns, complemented by strong problem-solving skills.<br><br>
+  <strong>Computer Science Student | Flutter Developer | Full Stack Friendly | Problem Solver</strong><br><br>
+  I specialize in building beautiful, responsive mobile applications using Flutter and Dart. I also have experience working with full-stack technologies including React, React Native, Node.js, and web development (HTML, CSS, JavaScript).<br><br>
+  I have a solid foundation in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, and Design Patterns, complemented by strong problem-solving skills.<br><br>
   I'm passionate about mastering cross-platform development, API integrations, and delivering seamless user experiences.<br><br>
   Detail-oriented, responsible, and committed, I bring a "get-it-done" attitude to deliver high-quality results on time. A quick learner, self-motivated, and collaborative team player, I thrive in dynamic environments where technology meets creativity.
 </p>
@@ -13,12 +14,25 @@
 
 ## 🛠 Tech Stack
 
+<!-- Main Focus -->
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
+<!-- Web Technologies -->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+<!-- Frameworks -->
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react%20native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%232F6A47.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
+<!-- Back-End & Database -->
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+<!-- Other Languages -->
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
